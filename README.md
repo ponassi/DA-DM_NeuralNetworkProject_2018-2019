@@ -17,8 +17,8 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 ## The Structure
 We will make three different neural network.
-Single perceptron
-Fully-connected network
-Convolution neural network
+- Single perceptron
+- Fully-connected network
+- Convolution neural network
 To see the differences in performance and accuracy.
 
