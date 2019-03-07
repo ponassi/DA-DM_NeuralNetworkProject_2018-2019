@@ -1,4 +1,4 @@
-# DA-DM_NeuralNetworkProject_2018-2019
+# DADM_NeuralNetworkProject_2018-2019
 ## Contributors
 NeuralNetworkProject has been developed by Francesco Musso ([@frmusso](https://github.com/frmusso)) and Davide Ponassi ([@ponassi](https://github.com/ponassi)).
 
