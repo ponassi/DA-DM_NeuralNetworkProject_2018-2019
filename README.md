@@ -5,4 +5,5 @@ NeuralNetworkProject has been developed by Francesco Musso ([@frmusso](https://g
 
 ## The project
 Automated methods to detect and classify human diseases from medical images.
+
 In this project we are dealing with classifying if a patient is affected or not with pneumonia from chest x-ray images.
