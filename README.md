@@ -16,10 +16,9 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 ## The Structure
-We will make three different neural network.
+We will make two different neural network.
 - Single perceptron
-- Fully-connected network
-- Convolutional neural network
+- Back-prop
 
 To see the differences in performance and accuracy.
 
