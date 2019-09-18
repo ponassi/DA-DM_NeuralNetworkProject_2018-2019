@@ -17,8 +17,8 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 ## The Structure
 We will make two different neural network.
-- Single perceptron
-- Back-prop
+- Single perceptron (implemented using the PLA)
+- Neural net with one hidden later of four neuorn and one output layer of a single nueron (implemented using the Back-prop)
 
 To see the differences in performance and accuracy.
 
