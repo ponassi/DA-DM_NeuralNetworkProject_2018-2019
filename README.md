@@ -29,8 +29,14 @@ The perceptron learn using the PLA.
 We use the sign as loss function.
 At the end we print the final weight learnt by the perceprtron.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/Perceptron/perceptron_final_weights.png">
+</p>
+
 ## Neural Net
 Each x-ray is set to greyscale and reshaped to 100x100 and then normalized.
 The dataset is divided with a proportion of 60:20:20 (trainingSet:validationSet:testSet).
 The NN learn using Batch Gradient Descent and Backpropagation.
 We use the MSE as loss function.
+
+<img src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/NeuralNet/mom_acc_25000plus.PNG" width="425" height="350"/> <img src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/NeuralNet/mom_loss_25000plus.PNG" width="425" height="350"/> 
