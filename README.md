@@ -39,4 +39,7 @@ The dataset is divided with a proportion of 60:20:20 (trainingSet:validationSet:
 The NN learn using Batch Gradient Descent and Backpropagation.
 We use the MSE as loss function.
 
-<img src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/NeuralNet/mom_acc_25000plus.PNG" width="425" height="350"/> <img src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/NeuralNet/mom_loss_25000plus.PNG" width="425" height="350"/> 
+<p align="center">
+<img src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/NeuralNet/mom_acc_25000plus.PNG" width="425" height="350"/> 
+<img src="https://github.com/ponassi/DA-DM_NeuralNetworkProject_2018-2019/blob/master/NeuralNet/mom_loss_25000plus.PNG" width="425" height="350"/> 
+</p>
